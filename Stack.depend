@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1604583708 source:/home/alef/src/taf/utseus/courses/LO02/code/LO02_2020_Ex36/main.cpp
+	<iostream>
+	"container.h"
+	"vector.h"
+	"Stack/stack.h"
+
+1604575699 /home/alef/src/taf/utseus/courses/LO02/code/LO02_2020_Ex36/container.h
+	<string>
+	<stdexcept>
+
+1604582015 /home/alef/src/taf/utseus/courses/LO02/code/LO02_2020_Ex36/vector.h
+	"container.h"
+
+1604582104 source:/home/alef/src/taf/utseus/courses/LO02/code/LO02_2020_Ex36/Stack/main.cpp
+	<iostream>
+
